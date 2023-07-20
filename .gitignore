@@ -12,3 +12,4 @@ stats.html
 .log
 .turbo
 .rollup.cache
+examples/vite-app/yarn.lock
